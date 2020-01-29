@@ -14,6 +14,7 @@
 - [Dirsearch](https://github.com/maurosoria/dirsearch)
 - [XSStrike](https://github.com/s0md3v/XSStrike)
 - [LinksF1nd3r](https://github.com/ihebski/LinksF1nd3r)
+- [Rapidscan](https://github.com/skavngr/rapidscan)
 
 #### sqlmap automate
 
