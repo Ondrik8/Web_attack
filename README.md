@@ -16,6 +16,20 @@
 - [LinksF1nd3r](https://github.com/ihebski/LinksF1nd3r)
 - [Rapidscan](https://github.com/skavngr/rapidscan)
 
+#### Auto_scanners
+
+![hot](https://cirt.net/files/alienlogo_3.gif)
+
+- [BruteX](https://github.com/1N3/BruteX)
+- [BlackWidow](https://github.com/1N3/BlackWidow)
+- [S3Scanner](https://github.com/sa7mon/S3Scanner)
+- [CRLF-Injection-Scanner](https://github.com/MichaelStott/CRLF-Injection-Scanner)
+- [jaeles](https://github.com/jaeles-project/jaeles)
+- [kube-scan](https://github.com/random-robbie/kube-scan)
+- [Subrake](https://github.com/hash3liZer/Subrake)
+- [Osmedeus](https://github.com/j3ssie/Osmedeus)
+- [nikto](https://github.com/sullo/nikto)
+
 #### sqlmap automate
 
 ```
