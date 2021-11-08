@@ -1,5 +1,8 @@
 ### Web Attacks:
 
+- [Web_Application_Penetration_Testing_Checklist](https://github.com/Ondrik8/Web-Application-Pentest-Checklist/blob/main/Web_Application_Penetration_Testing_Checklist_by_Tushar_Verma.pdf)
+
+
 - [SQLmap](https://github.com/sqlmapproject/sqlmap)
 - [XAttacker](https://github.com/Moham3dRiahi/XAttacker)
 - [Fuxploider](https://github.com/almandin/fuxploider)
